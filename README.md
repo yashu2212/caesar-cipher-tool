@@ -49,7 +49,7 @@ caesarciphertool/
 ────────────────────────────────────────────────────────────
 
 # Clone the repository
-git clone https://github.com/yourname/caesar-cipher-tool.git
+git clone https://github.com/yashu2212/caesar-cipher-tool.git
 cd caesar-cipher-tool
 
 # Create virtual environment
