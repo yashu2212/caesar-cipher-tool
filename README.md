@@ -186,9 +186,8 @@ AES-256 + Fernet secure implementation.
 
 Place these in /screenshots folder:
 
-![GUI](screenshots/gui.png)
-![WEB](screenshots/web.png)
-![Universal Decoder](screenshots/universal.png)
+![WEB](https://github.com/yashu2212/caesar-cipher-tool/blob/main/Web.png))
+![GUI](https://github.com/yashu2212/caesar-cipher-tool/blob/main/GUI.png)
 
 ────────────────────────────────────────────────────────────
 # 🤝 CONTRIBUTING
