@@ -221,8 +221,8 @@ If you need help:
 # ⭐ CREDIT
 ────────────────────────────────────────────────────────────
 
-Created by: **incognito (r00tX)**  
-Generated, upgraded & optimized via ChatGPT + Python.
+Created by: **Yashu2212 (r00tX)**  
+
 
 ────────────────────────────────────────────────────────────
 # END
